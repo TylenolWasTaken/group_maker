@@ -3,7 +3,7 @@
 
 > Including the "prod" main file and the challenge 14-liner ;)
 
-## install (? idk tbh)
+## Install (Download? idk tbh)
 To download the file use git:
 ```
 git clone https://github.com/TylenolWasTaken/group_maker
