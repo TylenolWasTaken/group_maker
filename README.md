@@ -16,7 +16,7 @@ or as a script (linux & mac(?) ):
 ```
 ./main.py 3 --am --absent jayden aiden
 ```
-where `3` is the size of each group, am is the class period, and --absent is an optional value of students separated with spaces. <br/>
+where `3` is the size of each group, `--am` is the class period, and `--absent` is an optional value of students separated with spaces. <br/>
 For more detailed help you can run `python3 main.py --help`.
 
 ## Smaller challenge file
