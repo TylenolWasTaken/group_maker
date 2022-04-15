@@ -3,9 +3,9 @@
 import random
 import json
 import os
+import argparse
 from math import ceil
 from pathlib import Path
-import argparse
 
 
 # minor definitions
